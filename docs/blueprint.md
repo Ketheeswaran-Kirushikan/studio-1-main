@@ -1,4 +1,4 @@
-# **App Name**: Abibarnman Digital
+# **App Name**: Abibarman Digital
 
 ## Core Features:
 

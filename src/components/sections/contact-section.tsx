@@ -47,7 +47,7 @@ export function ContactSection() {
                     <CardContent className="space-y-4 text-muted-foreground">
                         <p className="flex items-center gap-3">
                             <MapPin className="h-5 w-5 text-primary"/>
-                            <span>Loganathan Abibarnman<br/>46 Sivan Pannai Road, Jaffna</span>
+                            <span>Loganathan Abibarman<br/>46 Sivan Pannai Road, Jaffna</span>
                         </p>
                          <p className="flex items-center gap-3">
                             <Mail className="h-5 w-5 text-primary"/>

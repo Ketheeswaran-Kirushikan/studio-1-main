@@ -17,7 +17,7 @@ export function HeroSection() {
           <div className="flex flex-col justify-center space-y-6 text-center lg:text-left">
             <div className="space-y-4">
               <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl xl:text-7xl/none font-headline text-foreground">
-                Hello, I’m Loganathan Abibarnman
+                Hello, I’m Loganathan Abibarman
               </h1>
               <p className="text-xl md:text-2xl text-primary font-semibold">
                 Digital Marketing Executive | Visual Content Creator
@@ -46,7 +46,7 @@ export function HeroSection() {
             <div className="relative">
               <Image
                 src="https://res.cloudinary.com/ddvjovt41/image/upload/w_900,h_900,c_fill,g_face,q_auto:eco,f_auto/v1765544888/abi/WhatsApp_Image_2025-12-11_at_23.05.14_ace31a14_cpmhxr.jpg"
-                alt="Loganathan Abibarnman"
+                alt="Loganathan Abibarman"
                 width={450}
                 height={450}
                 priority

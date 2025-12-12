@@ -1,7 +1,7 @@
 'use server';
 
 /**
- * @fileOverview Generates promotional tweets for Loganathan Abibarnman highlighting recent achievements.
+ * @fileOverview Generates promotional tweets for Loganathan Abibarman highlighting recent achievements.
  *
  * - generatePromotionalTweet - A function that generates promotional tweets.
  * - GeneratePromotionalTweetInput - The input type for the generatePromotionalTweet function.

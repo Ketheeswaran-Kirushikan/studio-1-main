@@ -14,7 +14,7 @@ export function Footer() {
     <footer className="bg-background border-t border-border py-8 w-full">
       <div className=" px-4 md:px-6 flex flex-col md:flex-row items-center justify-between gap-4">
         <p className="text-sm text-muted-foreground">
-          Copyright © 2025 Loganathan Abibarnman
+          Copyright © 2025 Loganathan Abibarman
         </p>
         <div className="flex gap-4">
           {socialLinks.map(({ name, icon: Icon, href }) => (

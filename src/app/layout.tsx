@@ -3,9 +3,9 @@ import { Toaster } from '@/components/ui/toaster';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Abibarnman Digital',
+  title: 'Abibarman Digital',
   description:
-    'Portfolio of Loganathan Abibarnman – Digital Marketing Executive & Visual Content Creator',
+    'Portfolio of Loganathan Abibarman – Digital Marketing Executive & Visual Content Creator',
 };
 
 export default function RootLayout({

@@ -37,7 +37,7 @@ export function Header() {
       <div className=" mx-auto px-4 md:px-6">
         <div className="flex h-16 items-center justify-between">
           <Link href="#home" className="text-2xl font-bold font-headline text-primary">
-            Abibarnman
+            Abibarman
           </Link>
           <nav className="hidden md:flex items-center gap-6">
             {navLinks.map(({ href, label }) => (
