@@ -1,0 +1,60 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-portrait",
+      "description": "Portrait of Loganathan Abibarnman",
+      "imageUrl": "https://images.unsplash.com/photo-1522556189639-b150ed9c4330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3J0cmFpdCUyMG1hbnxlbnwwfHx8fDE3NjUzNDUyNDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait man"
+    },
+    {
+      "id": "portfolio-1",
+      "description": "Fashion product photography",
+      "imageUrl": "https://images.unsplash.com/photo-1761369332487-777e59fa4bcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmYXNoaW9uJTIwdGV4dGlsZXxlbnwwfHx8fDE3NjU0NTY3NjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fashion textile"
+    },
+    {
+      "id": "portfolio-2",
+      "description": "Fashion lifestyle shot",
+      "imageUrl": "https://images.unsplash.com/photo-1619086303291-0ef7699e4b31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZmFzaGlvbiUyMG1vZGVsfGVufDB8fHx8MTc2NTM4NDY4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fashion model"
+    },
+    {
+      "id": "portfolio-3",
+      "description": "Textile detail shot",
+      "imageUrl": "https://images.unsplash.com/photo-1701964621015-057c5bc5815f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0ZXh0aWxlJTIwZmFicmljfGVufDB8fHx8MTc2NTQ1Njc2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "textile fabric"
+    },
+    {
+      "id": "portfolio-4",
+      "description": "E-commerce product display",
+      "imageUrl": "https://images.unsplash.com/photo-1693275542358-29602edf6088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjbG90aGluZyUyMHByb2R1Y3R8ZW58MHx8fHwxNzY1NDU2NzYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clothing product"
+    },
+    {
+      "id": "portfolio-5",
+      "description": "Fashion campaign image",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1565241572347-2506e38cb16b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmYXNoaW9uJTIwY2FtcGFpZ258ZW58MHx8fHwxNzY1NDU2NzYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fashion campaign"
+    }
+  ],
+  "placeholderVideos": [
+    {
+      "id": "video-1",
+      "description": "Short fashion video",
+      "videoUrl": "https://videos.pexels.com/video-files/853825/853825-hd.mp4",
+      "videoHint": "fashion video"
+    },
+    {
+      "id": "video-2",
+      "description": "Textile manufacturing process",
+      "videoUrl": "https://videos.pexels.com/video-files/3209228/3209228-hd.mp4",
+      "videoHint": "textile process"
+    },
+    {
+      "id": "video-3",
+      "description": "Behind the scenes of a photoshoot",
+      "videoUrl": "https://videos.pexels.com/video-files/4496359/4496359-hd.mp4",
+      "videoHint": "fashion photoshoot"
+    }
+  ]
+}
