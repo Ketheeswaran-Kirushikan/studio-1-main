@@ -45,7 +45,7 @@ export function HeroSection() {
           <div className="flex justify-center lg:justify-end">
             <div className="relative">
               <Image
-                src="https://res.cloudinary.com/ddvjovt41/image/upload/w_900,h_900,c_fill,g_face,q_auto:eco,f_auto/v1765544888/abi/WhatsApp_Image_2025-12-11_at_23.05.14_ace31a14_cpmhxr.jpg"
+                src="https://res.cloudinary.com/ddvjovt41/image/upload/w_900,h_900,c_fill,g_face,q_auto:eco,f_auto/v1765554587/abi/Untitled_design__1_1_u4d9ek.jpg"
                 alt="Loganathan Abibarman"
                 width={450}
                 height={450}
